@@ -11,3 +11,5 @@ zstyle :compinstall filename '/home/gemdude46/.zshrc'
 autoload -Uz compinit
 compinit
 # End of lines added by compinstall
+
+source .zkbd

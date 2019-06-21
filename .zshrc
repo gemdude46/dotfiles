@@ -15,4 +15,4 @@ compinit
 source .zkbd
 source .aliases
 
-export PROMPT='%/%(!.#.$) '
+export PROMPT='%~%(!.#.$) '

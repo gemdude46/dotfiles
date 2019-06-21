@@ -13,3 +13,6 @@ compinit
 # End of lines added by compinstall
 
 source .zkbd
+source .aliases
+
+export PROMPT='%/%(!.#.$) '
